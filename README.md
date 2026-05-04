@@ -33,11 +33,6 @@ Em breve estarei subindo meus projetos pessoais.
 - Proatividade 
 ---
 
-### 📄 **Currículo**
-Confira meu currículo para mais detalhes: https://unilavrasedu-my.sharepoint.com/:b:/g/personal/fcley69_souunilavras_com/ERrQFM6HOidHloD6Yk5pzHMB_ZH50YrJAYt7YuN91WCXeA?e=wkYrHn
-
----
-
 ### 💼 **Conecte-se Comigo**
 - 🌐 LinkedIn: www.linkedin.com/in/felipe-cley-b50390251
 - 📧 E-mail: felipecley.dev@gmail.com
