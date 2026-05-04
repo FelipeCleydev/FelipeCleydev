@@ -10,6 +10,8 @@ Sou Felipe Cley, um desenvolvedor dedicado, apaixonado por programação e por r
 ### 🎯 **Objetivo**
 Procuro oportunidades como estagiário, onde posso contribuir com projetos e aprimorar minhas habilidades em desenvolvimento de software e programação. Minha paixão está no desenvolvimento web, tanto no front-end quanto no back-end, e meu objetivo é crescer continuamente na área de tecnologia.
 
+Em breve estarei subindo meus projetos pessoais.
+
 ---
 
 ### 💡 **Sobre Mim**
